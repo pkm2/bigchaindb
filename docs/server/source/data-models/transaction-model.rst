@@ -5,7 +5,7 @@
 
 .. _the-transaction-model:
 
-The Transaction Model
+트랜잭션 모델
 =====================
 
-See the `BigchainDB Transactions Specs <https://github.com/bigchaindb/BEPs/tree/master/tx-specs/>`_.
+ `BigchainDB 트랜젝션 스펙 <https://github.com/bigchaindb/BEPs/tree/master/tx-specs/>`_ 을 참조하십시오.
