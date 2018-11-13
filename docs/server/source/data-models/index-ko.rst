@@ -3,14 +3,14 @@
    SPDX-License-Identifier: (Apache-2.0 AND CC-BY-4.0)
    Code is Apache-2.0 and docs are CC-BY-4.0
 
-Data Models
+데이타 모델
 ===========
 
 .. toctree::
    :maxdepth: 1
 
-   transaction-model 
-   asset-model
-   inputs-outputs
-   conditions
-   block-model
+   트랜젝션 모델 
+   자산 모델
+   입력 및 출력
+   조건
+   블록 모델
